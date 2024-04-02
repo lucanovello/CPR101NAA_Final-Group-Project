@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\manipulating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|solutionrelative:manipulating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\converting.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|solutionrelative:converting.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\fundamentals.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|solutionrelative:fundamentals.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\tokenizing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF4ED19F-CC08-4D8F-9E17-C93A95825298}|CPR101NAA_Final Group Project.vcxproj|solutionrelative:tokenizing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "manipulating.c",
+              "DocumentMoniker": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\manipulating.c",
+              "RelativeDocumentMoniker": "manipulating.c",
+              "ToolTip": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\manipulating.c",
+              "RelativeToolTip": "manipulating.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T21:06:37.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T21:11:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "converting.c",
+              "DocumentMoniker": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\converting.c",
+              "RelativeDocumentMoniker": "converting.c",
+              "ToolTip": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\converting.c",
+              "RelativeToolTip": "converting.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T21:08:36.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fundamentals.c",
+              "DocumentMoniker": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\fundamentals.c",
+              "RelativeDocumentMoniker": "fundamentals.c",
+              "ToolTip": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\fundamentals.c",
+              "RelativeToolTip": "fundamentals.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T21:07:58.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tokenizing.c",
+              "DocumentMoniker": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\tokenizing.c",
+              "RelativeDocumentMoniker": "tokenizing.c",
+              "ToolTip": "C:\\Storage\\SCHOOL\\Winter-2024\\CPR101NAA\\Final Group Project\\CPR101NAA_Final Group Project\\tokenizing.c",
+              "RelativeToolTip": "tokenizing.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-26T16:41:02.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
