@@ -2,20 +2,19 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define BUFFER_SIZE 80
 #include "converting.h"
-
-// V1
+// V3
 void converting(void) {
-	printf("*** Start of Converting Strings to int Demo ***\n");
-	char intString[BUFFER_SIZE];
-	int intNumber;
+	printf("*** Start of Converting Strings to long Demo ***\n");
+	char longString[BUFFER_SIZE];
+	long longNumber;
 	do {
-		printf("Type an int numeric string (q - to quit):\n");
-		fgets(intString, BUFFER_SIZE, stdin);
-		intString[strlen(intString) - 1] = '\0';
-		if (strcmp(intString, "q") != 0) {
-			intNumber = atoi(intString);
-			printf("Converted number is %d\n", intNumber);
+		printf("Type the long numeric string (q - to quit):\n");
+		fgets(longString, BUFFER_SIZE, stdin);
+		longString[strlen(longString) - 1] = '\0';
+		if ((strcmp(longString, "q") != 0)) {
+			longNumber = atol(longString);
+			printf("Converted number is %ld\n", longNumber);
 		}
-	} while (strcmp(intString, "q") != 0);
-	printf("*** End of Converting Strings to int Demo ***\n\n");
+	} while (strcmp(longString, "q") != 0);
+	printf("*** End of Converting Strings to long Demo ***\n\n");
 }

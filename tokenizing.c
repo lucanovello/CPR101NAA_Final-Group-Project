@@ -3,24 +3,24 @@
 #define BUFFER_SIZE 300
 #include "tokenizing.h"
 
-// V1
+// V3
 void tokenizing(void) {
 	printf("*** Start of Tokenizing words Demo ***\n");
-	char words[BUFFER_SIZE];
-	char* nextword = NULL;
-	int wordsCounter;
+	char sentences[BUFFER_SIZE];
+	char* nextSentence = NULL;
+	int sentencesCounter;
 	do {
-		printf("Type a few words separated by space (q - to quit): \n");
-		fgets(words, BUFFER_SIZE, stdin);
-		words[strlen(words) - 1] = '\0';
-		if (strcmp(words, "q") != 0) {
-			nextword = strtok(words, " ");
-			wordsCounter = 1;
-			while (nextword) {
-				printf("Word #%d is \'%s\'\n", wordsCounter++, nextword);
-				nextword = strtok(NULL, " ");
+		printf("Type a few sentences separated by dot (q - to quit):\n");
+		fgets(sentences, BUFFER_SIZE, stdin);
+		sentences[strlen(sentences) - 1] = '\0';
+		if (strcmp(sentences, "q") != 0) {
+			nextSentence = strtok(sentences, ".");
+			sentencesCounter = 1;
+			while (nextSentence) {
+				printf("Sentence #%d is \'%s\'\n", sentencesCounter++, nextSentence);
+				nextSentence = strtok(NULL, ".");
 			}
 		}
-	} while (strcmp(words, "q") != 0);
-	printf("*** End of Tokenizing Words Demo ***\n\n");
+	} while (strcmp(sentences, "q") != 0);
+	printf("*** End of Tokenizing Sentences Demo ***\n\n");
 }
