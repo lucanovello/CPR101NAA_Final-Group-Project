@@ -2,7 +2,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define BUFFER_SIZE 80
 #include "converting.h"
-
 // V1
 void converting(void) {
 	printf("*** Start of Converting Strings to int Demo ***\n");

@@ -3,9 +3,8 @@
 #define BUFFER_SIZE 80
 #define NUM_INPUT_SIZE 10
 #include "fundamentals.h"
-
-void fundamentals(void) {
 // V2
+void fundamentals(void) {
 printf("*** Start of Measuring Strings Demo ***\n"); 
 char buffer2[BUFFER_SIZE];
 do {

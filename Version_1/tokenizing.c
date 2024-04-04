@@ -2,7 +2,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define BUFFER_SIZE 300
 #include "tokenizing.h"
-
 // V1
 void tokenizing(void) {
 	printf("*** Start of Tokenizing words Demo ***\n");
